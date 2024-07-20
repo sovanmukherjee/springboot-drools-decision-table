@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot-drools-decision-table
+
+discount-rule-file-name: discount.xls
