@@ -1,4 +1,3 @@
-<html><head><meta name="google-site-verification" content="3uv5SgM3ZZhVCagdtHTsR4RoG6v6iSb71S5LPBfZIus" /></head></html>
 # Getting Started 🚀 
 
 ## [✨ _Spring Boot 3 + Drools + Decision tables_ ✨](https://github.com/sovanmukherjee/springboot-drools-decision-table) 
